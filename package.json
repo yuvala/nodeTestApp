@@ -1,0 +1,13 @@
+{
+  "name": "socketio-example",
+  "description": "chat implementation socket.io",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.10.2",
+    "firebase": "^2.3.2",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1",
+    "socket.io": "^1.2.1"
+  }
+}

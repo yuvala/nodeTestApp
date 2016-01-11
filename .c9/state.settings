@@ -1,0 +1,558 @@
+{
+    "ace": {
+        "search": {
+            "@backwards": "false",
+            "@highlightmatches": "true",
+            "@matchcase": "false",
+            "@preservecase": "false",
+            "@regex": "false",
+            "@wholeword": "false",
+            "@wraparound": "true"
+        }
+    },
+    "console": {
+        "@expanded": true,
+        "@height": 219.60000610351562,
+        "@maximized": "false",
+        "json()": {
+            "meta": {
+                "accessList": [
+                    "tab2",
+                    "tab0"
+                ]
+            },
+            "name": "pane1",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab0",
+                    "path": "",
+                    "className": [
+                        "tab0"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452160115431
+                        },
+                        "filter": true,
+                        "title": "sudo - \"ip-172-31-30-99\"",
+                        "tooltip": "sudo - \"ip-172-31-30-99\"",
+                        "terminal": {
+                            "id": "devel_309",
+                            "cwd": "",
+                            "width": 1177,
+                            "height": 194
+                        }
+                    },
+                    "editorType": "terminal",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab2",
+                    "path": "",
+                    "className": [
+                        "tab2",
+                        "focus"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452179698540
+                        },
+                        "filter": true,
+                        "title": "bash - \"ubuntu@ip-172-31-30-99: ~/my-app\"",
+                        "tooltip": "bash - \"ubuntu@ip-172-31-30-99: ~/my-app\"",
+                        "terminal": {
+                            "id": "devel_80",
+                            "cwd": "",
+                            "width": 1177,
+                            "height": 194
+                        }
+                    },
+                    "editorType": "terminal",
+                    "active": true
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "experiments": {
+        "@@enabled": true,
+        "@autosave": 0,
+        "@flat-dark": 0,
+        "@git": 1,
+        "@mount": 0,
+        "@plugin-manager": 1,
+        "@plugins": 0,
+        "@python_worker": 0,
+        "@sdk": 0,
+        "@test": 0
+    },
+    "ext": {
+        "counters": {
+            "@ace": 1,
+            "@acestatus": 1,
+            "@divider": 4,
+            "@document": 18,
+            "@form": 5,
+            "@immediate": 1,
+            "@menu": 5,
+            "@menuitem": 13,
+            "@pane": 3,
+            "@preferences": 1,
+            "@session": 18,
+            "@tab": 17,
+            "@undoManager": 18,
+            "@welcome": 1
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@wholeword": "false"
+    },
+    "menus": {
+        "@minimized": false
+    },
+    "nak": {
+        "@installed": true
+    },
+    "panecycle": {
+        "json()": [
+            "tab2",
+            "tab14"
+        ]
+    },
+    "panels": {
+        "@active-left": "tree",
+        "@width-left": 359,
+        "commands.panel": {
+            "@enabled": "false",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "false",
+            "@name": "debugger"
+        },
+        "navigate": {
+            "@enabled": "false",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "false",
+            "@name": "outline"
+        },
+        "scm": {
+            "@enabled": "false",
+            "@name": "scm"
+        },
+        "tree": {
+            "@enabled": "false",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "@showfs": true,
+        "expanded": {
+            "json()": [
+                "/modules/db",
+                "/api",
+                "/public/js/app/myMath/",
+                "/public/js/app/myMath/models/",
+                "/public/js",
+                "/api/user",
+                "/public",
+                "/public/js/app",
+                "/api/chats",
+                "/public/js/app/myMath",
+                "/New Folder"
+            ]
+        }
+    },
+    "recentfiles": {
+        "json()": [
+            {
+                "type": "tab",
+                "name": "tab16",
+                "path": "/public/js/app/myMath/myMath.js",
+                "className": [
+                    "tab16",
+                    "focus"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452445972763
+                    },
+                    "filter": true,
+                    "title": "myMath.js",
+                    "tooltip": "/public/js/app/myMath/myMath.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab11",
+                "path": "/public/js/app/myMath/myMath.js",
+                "className": [
+                    "tab11"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452445972763
+                    },
+                    "filter": true,
+                    "title": "myMath.js",
+                    "tooltip": "/public/js/app/myMath/myMath.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab10",
+                "path": "/api/chats/index.js",
+                "className": [
+                    "tab10",
+                    "preview"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452182185227
+                    },
+                    "filter": true,
+                    "title": "index.js",
+                    "tooltip": "/api/chats/index.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab9",
+                "path": "/api/chats/chats.ctrl.js",
+                "className": [
+                    "tab9"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452182182943
+                    },
+                    "filter": true,
+                    "title": "chats.ctrl.js",
+                    "tooltip": "/api/chats/chats.ctrl.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab7",
+                "path": "/server.js",
+                "className": [
+                    "tab7"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452242772015
+                    },
+                    "filter": true,
+                    "title": "server.js",
+                    "tooltip": "/server.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab6",
+                "path": "/api/chats/chats.ctrl.js",
+                "className": [
+                    "tab6"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452182182943
+                    },
+                    "filter": true,
+                    "title": "chats.ctrl.js",
+                    "tooltip": "/api/chats/chats.ctrl.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab5",
+                "path": "/api/chats/index.js",
+                "className": [
+                    "tab5",
+                    "focus"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452182185227
+                    },
+                    "filter": true,
+                    "title": "index.js",
+                    "tooltip": "/api/chats/index.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            },
+            {
+                "type": "tab",
+                "name": "tab4",
+                "path": "/api/chats/chats.ctrl.js",
+                "className": [
+                    "tab4"
+                ],
+                "document": {
+                    "changed": false,
+                    "meta": {
+                        "readonly": true,
+                        "preview": true,
+                        "timestamp": 1452182182943
+                    },
+                    "filter": true,
+                    "title": "chats.ctrl.js",
+                    "tooltip": "/api/chats/chats.ctrl.js",
+                    "ace": {}
+                },
+                "editorType": "ace",
+                "active": false
+            }
+        ]
+    },
+    "search-history": {
+        "search": {
+            "json()": [
+                "myMath"
+            ]
+        }
+    },
+    "tabs": {
+        "json()": {
+            "focus": "tab2",
+            "meta": {
+                "accessList": [
+                    "tab14",
+                    "tab13",
+                    "tab12",
+                    "tab16",
+                    "tab17",
+                    "tab11",
+                    "tab15",
+                    "tab1",
+                    "tab3",
+                    "tab5",
+                    "tab8"
+                ]
+            },
+            "name": "pane0",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab1",
+                    "path": "/public/js/app/myMath/controllers/ListController.js",
+                    "className": [
+                        "tab1"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452522995280
+                        },
+                        "filter": true,
+                        "title": "ListController.js",
+                        "tooltip": "/public/js/app/myMath/controllers/ListController.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab3",
+                    "path": "/public/js/app/myMath/views/ListView.js",
+                    "className": [
+                        "tab3"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452522992498
+                        },
+                        "filter": true,
+                        "title": "ListView.js",
+                        "tooltip": "/public/js/app/myMath/views/ListView.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab8",
+                    "path": "/public/js/app/main.js",
+                    "className": [
+                        "tab8"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452514956475
+                        },
+                        "filter": true,
+                        "title": "main.js",
+                        "tooltip": "/public/js/app/main.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab13",
+                    "path": "/public/index.html",
+                    "className": [
+                        "tab13"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452523688517
+                        },
+                        "filter": true,
+                        "title": "index.html",
+                        "tooltip": "/public/index.html",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab14",
+                    "path": "/routes.js",
+                    "className": [
+                        "tab14"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452523736248
+                        },
+                        "filter": true,
+                        "title": "routes.js",
+                        "tooltip": "/routes.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": true
+                },
+                {
+                    "type": "tab",
+                    "name": "tab15",
+                    "path": "/public/js/app/myMath/controllers/AddController.js",
+                    "className": [
+                        "tab15"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452523005643
+                        },
+                        "filter": true,
+                        "title": "AddController.js",
+                        "tooltip": "/public/js/app/myMath/controllers/AddController.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab17",
+                    "path": "/public/js/app/myMath/views/AddView.js",
+                    "className": [
+                        "tab17"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452523010155
+                        },
+                        "filter": true,
+                        "title": "AddView.js",
+                        "tooltip": "/public/js/app/myMath/views/AddView.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab12",
+                    "path": "/public/js/app/myMath/myMath.html",
+                    "className": [
+                        "tab12"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1452523432796
+                        },
+                        "filter": true,
+                        "title": "myMath.html",
+                        "tooltip": "/public/js/app/myMath/myMath.html",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/node_modules"
+        ]
+    }
+}
